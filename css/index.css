@@ -1,0 +1,55 @@
+nav {
+  height: 50px;
+  background-color: lightgrey;
+  color: white;
+}
+
+/* target the class of inline-block below */
+.inline-block {
+    display: inline-block;
+    padding: 15px;
+    width: 100px;
+    text-align: center;
+    background-color: #444444;
+
+
+}
+
+/* target the class of .left below */
+.left {
+    height: 1000px;
+    float: left;
+    padding-top: 15px;
+    background-color: #0A01F9;
+    width: 29%;
+    text-align: center;
+    color: white;
+}
+
+.petInfo{
+    color: pink;
+    text-align: left;
+    padding-left: 20px;
+}
+
+/* target the class of .right below */
+.right {
+    height: 1000px;
+    float: right;
+    background-color: #0D9D93;
+    width: 70%;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.topRight{
+    float: right;
+    padding-left: 15px;
+}
+
+.card {
+      display: inline-block;
+      border-radius: 5px;
+      margin: 35px;
+      margin-top: 50px;
+}
